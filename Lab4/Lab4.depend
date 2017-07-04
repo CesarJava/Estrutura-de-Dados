@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1378818213 source:c:\users\cesar\documents\eco003\lab4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
